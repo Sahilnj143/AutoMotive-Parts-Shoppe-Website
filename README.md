@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to My Internship Project
 
 # 🛠️ AutoParts E-Commerce Website
@@ -53,3 +54,8 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+=======
+# AutoMotive-Parts-Shoppe-Website
+A full-stack e-commerce platform for automotive parts, enabling users to browse, filter, and purchase vehicle components with secure checkout and real-time inventory management.
+>>>>>>> 9ee884ab08bbe293813d1af66eb32fae1dffe612
+# AutoMotive-Parts-Shoppe-Website
